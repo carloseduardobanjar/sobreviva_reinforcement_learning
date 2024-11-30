@@ -54,6 +54,10 @@ Durante a execução:
 
 Aqui estão os vídeos com os resultados:
 
-Teste com jogoAutonomo.py: ?
+Teste com jogoAutonomo.py: 
 
-Teste com jogoAutonomoComTabuleiroDiscreto.py: ?
+https://youtu.be/LEYM0nRY3JQ
+
+Teste com jogoAutonomoComTabuleiroDiscreto.py:
+
+https://youtu.be/AVsDnf-6ek0
